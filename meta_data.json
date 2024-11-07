@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "containers",
+        "2": "technical",
+        "3": "productivity",
+        "4": "small business"
+    },
+    "data_tracked": false,
+    "demo_page": "https://bubble.io/page?type=page&name=index_old&id=reverse-repeating-group&tab=tabs-1",
+    "description": "You can use this plugin to reverse your repeating group. This is great for messaging applications for example! The plugin fixes the scrolling issue the other plugins have and this plugin does not use dependencies so it does not clash with other plugins on the page. \n\n✅ Supports the latest version of Bubble\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/reverse-repeating-group-plugin-for-bubble-1728497276656x591392897657723600\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-l.cdn.bubble.io/f1691685214989x104594679174560450/sort-1_icon-icons.com_69454.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Reverse Repeating Group",
+    "plugin_instructions": "If you need an example, take a look at the demo page!\n\n1 - Place the '🔄 Reverse RG' element on the page\n\n2 - Inside the plugin properties you see that you need to put in the ID attributes of the Repeating Group(s) your want to reverse and the ID attributes of the group(s) with the repeating group.\n\nGive your Bubble Repeating Group an ID attribute. Also do this for the group(s) within the Repeating Group.\n\nIf you don't see this the ID attribute option at the bottom of your input element properties, make sure you've enabled the HTML ID setting. You can do this under:\n\na. Settings\nb. General\nc. Scroll all the way down to 'Advanced Options'\nd. Check the box for → 'Expose the option to add an ID attribute to HTML elements'\n\n3 - Add the ID attributes in the correct fields inside the plugin properties for '🔄 Reverse RG'.\n\nIf you have followed all the steps correctly, Your Repeating group will now be reversed!"
+}
